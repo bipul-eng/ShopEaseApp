@@ -1,4 +1,4 @@
-#ShopEase Ecommerce - Documentation
+# ShopEase Ecommerce - Documentation
 
 📌 Introduction
 
