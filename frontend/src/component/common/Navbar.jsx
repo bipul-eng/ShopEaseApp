@@ -145,7 +145,7 @@ const Navbar = () => {
             display: { xs: "none", sm: "block" },
           }}
         >
-          <h5>BD Online</h5>
+          <h5>ShopEase App</h5>
         </Typography>
 
         {/* Search Bar */}
