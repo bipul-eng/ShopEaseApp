@@ -1,10 +1,10 @@
 # ShopEase Ecommerce - Documentation
 
-📌 Introduction
+# 📌 Introduction
 
 ShopEase Ecommerce is a full-stack web application built using Spring Boot for the backend and React.js for the frontend. It provides a complete e-commerce experience, including user authentication, product management, shopping cart functionality, and order processing.
 
-🎯 Features
+# 🎯 Features
 
 Frontend (React.js)
 
@@ -28,7 +28,7 @@ Role-based access control (Admin/User)
 
 Database management using MySQL
 
-🏗 Architecture
+# 🏗 Architecture
 
 Technology Stack
 
